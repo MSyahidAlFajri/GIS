@@ -52,7 +52,7 @@ function addGeoJSONToMapAndTable(geoJSONUrl, map, table) {
 }
 
 // Call the function for LineString GeoJSON using the raw URL
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/raulmahya123/gisfix/master/TUGAS1/1214053-RAULMAHYA/geojsonLinestring.json", map, document.querySelector("table"));
+addGeoJSONToMapAndTable("https://raw.githubusercontent.com/MSyahidAlFajri/GIS/main/BandaAcah.geojson", map, document.querySelector("table"));
 
 // Call the function for Polygon GeoJSON
 addGeoJSONToMapAndTable("https://raw.githubusercontent.com/nizarabdulkholiq/gisfix/main/ASS/1214061/geojsonPloygon.json", map, document.querySelector("table"));
