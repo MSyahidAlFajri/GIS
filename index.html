@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GEOJSON</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  </head>
+  <body>
+    <div>
+      <h1>GeoJson</h1>
+      <div id="map" style="height: 500px"></div>
+
+      <!-- Include Leaflet via CDN -->
+      <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+      <!-- Include jQuery via CDN -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+      <!-- Create a table to display GeoJSON data -->
+      <table border="1">
+        <tr>
+          <th>no</th>
+          <th>Name</th>
+          <th>Desa</th>
+          <th>Coordinates</th>
+          <th>Type</th>
+        </tr>
+        <!-- Rows for GeoJSON data will be added here -->
+      </table>
+
+      <!-- Include the separated JavaScript file -->
+      <script type="module" src="app.js"></script>
+    </div>
+  </body>
+</html>
