@@ -1,53 +1,62 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  </head>
+
+<head>
+    <title>Data Tabel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+
 <body>
 
-<div>
-<table class="table-point" border="1">
-    <h1>Point table</h1>
-    <thead>
-        <tr>
-            <th>Type</th>
-            <th>Nama</th>
-            <th>Koordinat</th>
-        </tr>
-    </thead>
-  <tbody id="lokasi">
-  </tbody>
-</table>
-</div>
-<br>
-<div>
-<table class="table-polygon" border="1">
-    <h1>Polygon table</h1>
-    <thead>
-        <tr>
-            <th>Type</th>
-            <th>Nama</th>
-            <th>Koordinat</th>
-        </tr>
-    </thead>
-    <tbody id="polygon">
-    </tbody>
-  </table>
-<br>
-  <table class="table-line" border="1">
-    <h1>Line String table</h1>
-    <thead>
-        <tr>
-            <th>Type</th>
-            <th>Nama</th>
-            <th>Koordinat</th>
-        </tr>
-    </thead>
-    <tbody id="line">
-    </tbody>
-  </table>
-</div>
-<script type="module" src="./get.js"></script>
+    <div class="container mx-auto my-4 p-4">
+        <div class="bg-blue-500 text-white p-4 mb-4">
+            <h1 class="text-2xl">Data Poin</h1>
+        </div>
+        <table id="pointTable" class="border-collapse border" border="1">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="border p-2">Nama</th>
+                    <th class="border p-2">Koordinat</th>
+                    <th class="border p-2">Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
 
+    <div class="container mx-auto my-4 p-4">
+        <div class="bg-blue-500 text-white p-4 mb-4">
+            <h1 class="text-2xl">Data Polygon</h1>
+        </div>
+        <table id="polygonTable" class="border-collapse border" border="1">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="border p-2">Nama</th>
+                    <th class="border p-2">Koordinat</th>
+                    <th class="border p-2">Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div class="container mx-auto my-4 p-4">
+        <div class="bg-blue-500 text-white p-4 mb-4">
+            <h1 class="text-2xl">Data Polyline</h1>
+        </div>
+        <table id="polylineTable" class="border-collapse border" border="1">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="border p-2">Nama</th>
+                    <th class="border p-2">Koordinat</th>
+                    <th class="border p-2">Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script type="module" src="./script.js"></script>
 </body>
+
 </html>
