@@ -1,36 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>GEOJSON</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
   </head>
-  <body>
-    <div>
-      <h1>GeoJson</h1>
-      <div id="map" style="height: 500px"></div>
+<body>
 
-      <!-- Include Leaflet via CDN -->
-      <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-
-      <!-- Include jQuery via CDN -->
-      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-      <!-- Create a table to display GeoJSON data -->
-      <table border="1">
+<div>
+<table class="table-point" border="1">
+    <h1>Point table</h1>
+    <thead>
         <tr>
-          <th>no</th>
-          <th>Name</th>
-          <th>Daerah</th>
-          <th>Coordinates</th>
-          <th>Type</th>
+            <th>Type</th>
+            <th>Nama</th>
+            <th>Koordinat</th>
         </tr>
-        <!-- Rows for GeoJSON data will be added here -->
-      </table>
+    </thead>
+  <tbody id="lokasi">
+  </tbody>
+</table>
+</div>
+<br>
+<div>
+<table class="table-polygon" border="1">
+    <h1>Polygon table</h1>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Nama</th>
+            <th>Koordinat</th>
+        </tr>
+    </thead>
+    <tbody id="polygon">
+    </tbody>
+  </table>
+<br>
+  <table class="table-line" border="1">
+    <h1>Line String table</h1>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Nama</th>
+            <th>Koordinat</th>
+        </tr>
+    </thead>
+    <tbody id="line">
+    </tbody>
+  </table>
+</div>
+<script type="module" src="./get.js"></script>
 
-      <!-- Include the separated JavaScript file -->
-      <script type="module" src="app.js"></script>
-    </div>
-  </body>
+</body>
 </html>
