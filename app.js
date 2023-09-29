@@ -24,7 +24,7 @@ function addGeoJSONToMapAndTable(geoJSONUrl, map, table) {
       const typeCell = row.insertCell(4); // Add a cell for the type
       numCell.innerHTML = rowNum; // Populate the row number
       nameCell.innerHTML = feature.properties.name;
-      desaCell.innerHTML = feature.properties.desa;
+      desaCellCell.innerHTML = feature.properties.desa;
 
       // Access the GeoJSON coordinates
       const coordinates = feature.geometry.coordinates;
@@ -52,10 +52,10 @@ function addGeoJSONToMapAndTable(geoJSONUrl, map, table) {
 }
 
 // Call the function for LineString GeoJSON using the raw URL
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/MSyahidAlFajri/GIS/main/BandaAcah.geojson", map, document.querySelector("table"));
+addGeoJSONToMapAndTable("https://raw.githubusercontent.com/MSyahidAlFajri/GIS/main/Aceh.geojson", map, document.querySelector("table"));
 
-// Call the function for Polygon GeoJSON
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/nizarabdulkholiq/gisfix/main/ASS/1214061/geojsonPloygon.json", map, document.querySelector("table"));
+// // Call the function for Polygon GeoJSON
+// addGeoJSONToMapAndTable("https://raw.githubusercontent.com/nizarabdulkholiq/gisfix/main/ASS/1214061/geojsonPloygon.json", map, document.querySelector("table"));
 
-// Call the function for Point GeoJSON
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/nizarabdulkholiq/gisfix/main/ASS/1214061/goejsondrawPoint.json", map, document.querySelector("table"));
+// // Call the function for Point GeoJSON
+// addGeoJSONToMapAndTable("https://raw.githubusercontent.com/nizarabdulkholiq/gisfix/main/ASS/1214061/goejsondrawPoint.json", map, document.querySelector("table"));
