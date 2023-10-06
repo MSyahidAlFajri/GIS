@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPEN LAYER</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.css" />
+
+    <!-- Additional CSS -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div>
+        <h1 class="judul">Open Layer Banda Aceh</h1>
+        <h2>Nama : Muhammad Syahid Al Fajri</h2>
+        <h2>NPM : 1214008</h2>
+        <h2>Kelas : D4TI 3A</h2>
+        <div id="map" style="height: 500px;"></div>
+        <div id='map'></div>
+
+	<input type="hidden" id="idmarker" name="idmarker" value="">
+
+	<div id="popupinfo" class="ol-popup">
+		<b id="popupinfo-title"></b>
+		<div id="popupinfo-content"></div>
+		<div id="popupinfo-delete">
+			<input type="hidden" id="idmarker" name="idmarker" value="">
+			<button id="hapusbutton" type="button">Hapus</button><button id="hitungcogbutton" type="button">Hitung COG</button><br>
+		</div>
+		
+	</div>
+
+	<div id="popup" class="ol-popup">
+		<b id="popup-title">Input Center of Gravity</b><a href="#" id="popup-closer" class="ol-popup-closer"></a>
+		<div id="popup-content"></div>
+		<div id="popup-input">
+			Nama : <input type="text" id="name" name="name" required><br>
+			Volume : <input type="text" id="volume" name="volume" required><br>
+			<input type="hidden" id="long" name="long" value="">
+			<input type="hidden" id="lat" name="lat" value="">
+			<button id="insertmarkerbutton" type="button">Input</button><br>
+		</div>
+	</div>
+
+        <div class="point-table">
+            <h1>Data-Data (Polyline, Point, Polygon) </h1>
+            <div class="container mx-auto my-4 p-4">
+                <table id="pointTable" class="border-collapse border" border="1">
+                    <thead>
+                        <tr class="bg-gray-200">
+                            <th class="border p-2">Nama</th>
+                            <th class="border p-2">Koordinat</th>
+                            <th class="border p-2">Type</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        
+            <div class="container mx-auto my-4 p-4">
+                <div class="bg-blue-500 text-white p-4 mb-4">
+                    <h1 class="text-2xl">Data Polygon</h1>
+                </div>
+                <table id="polygonTable" class="border-collapse border" border="1">
+                    <thead>
+                        <tr class="bg-gray-200">
+                            <th class="border p-2">Nama</th>
+                            <th class="border p-2">Koordinat</th>
+                            <th class="border p-2">Type</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        
+            <div class="container mx-auto my-4 p-4">
+                <div class="bg-blue-500 text-white p-4 mb-4">
+                    <h1 class="text-2xl">Data Polyline</h1>
+                </div>
+                <table id="polylineTable" class="border-collapse border" border="1">
+                    <thead>
+                        <tr class="bg-gray-200">
+                            <th class="border p-2">Nama</th>
+                            <th class="border p-2">Koordinat</th>
+                            <th class="border p-2">Type</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        
+        <!-- Include OpenLayers via CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.js"></script>
+
+        <!-- Your JavaScript code here -->
+        <script type="module" src="croot.js"></script>
+
+    </div>
+</body>
+</html>
