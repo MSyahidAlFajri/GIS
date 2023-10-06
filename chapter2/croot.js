@@ -7,12 +7,11 @@ document.addEventListener('DOMContentLoaded', () => {
             })
         ],
         view: new ol.View({
-            center: ol.proj.fromLonLat([95.31678153983819, 5.554925722443841]), 
-            zoom: 14.5
+            center: ol.proj.fromLonLat([95.31678153983819, 5.554925722443841]),
+            zoom: 15
         })
     });
 
-    // Mendownload data waypoint, line string, dan polyline
     const waypointSource = new ol.source.Vector({
         url: 'Aceh.json',
         format: new ol.format.GeoJSON()
@@ -28,14 +27,13 @@ document.addEventListener('DOMContentLoaded', () => {
         format: new ol.format.GeoJSON()
     });
 
-    // Membuat layer untuk waypoint, line string, dan polyline
     const waypointLayer = new ol.layer.Vector({
         source: waypointSource,
         style: new ol.style.Style({
             image: new ol.style.Circle({
                 radius: 5,
                 fill: new ol.style.Fill({
-                    color: 'blue'
+                    color: 'purple'
                 })
             })
         })
@@ -45,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
         source: lineStringSource,
         style: new ol.style.Style({
             stroke: new ol.style.Stroke({
-                color: 'green',
+                color: 'blue',
                 width: 2
             })
         })
@@ -57,44 +55,57 @@ document.addEventListener('DOMContentLoaded', () => {
             stroke: new ol.style.Stroke({
                 color: 'black',
                 width: 5
-                
             })
         })
     });
 
-    // Menambahkan layer ke peta
     map.addLayer(waypointLayer);
     map.addLayer(lineStringLayer);
     map.addLayer(polylineLayer);
 
-    // Mendapatkan koordinat dari GeoJSON
-    const getCoordinates = (source) => {
-        const features = source.getFeatures();
-        const coordinates = features[0].getGeometry().getCoordinates();
-        return coordinates;
+    const addPopup = (map, source, featureType) => {
+        const overlay = new ol.Overlay({
+            element: document.getElementById('popup'),
+            autoPan: true,
+            autoPanAnimation: {
+                duration: 250
+            }
+        });
+        map.addOverlay(overlay);
+
+        map.on('click', (event) => {
+            map.forEachFeatureAtPixel(event.pixel, (feature) => {
+                const coordinates = feature.getGeometry().getCoordinates();
+                const content = `<strong>${featureType}</strong><br>Coordinates: ${coordinates}`;
+                overlay.setPosition(coordinates);
+                document.getElementById('popup-content').innerHTML = content;
+            });
+        });
     };
 
-    // Menampilkan koordinat di dalam tabel
     waypointSource.once('change', () => {
         const waypointCoords = getCoordinates(waypointSource);
-        document.getElementById('featureName').textContent = 'Waypoint';
-        document.getElementById('featureType').textContent = 'Point';
+        addPopup(map, waypointSource, 'Waypoint');
         document.getElementById('featureCoords').textContent = waypointCoords.toString();
     });
 
     lineStringSource.once('change', () => {
         const lineStringCoords = getCoordinates(lineStringSource);
-        document.getElementById('featureName').textContent = 'Line String';
-        document.getElementById('featureType').textContent = 'Line String';
+        addPopup(map, lineStringSource, 'Line String');
         document.getElementById('featureCoords').textContent = lineStringCoords.toString();
     });
 
     polylineSource.once('change', () => {
         const polylineCoords = getCoordinates(polylineSource);
-        document.getElementById('featureName').textContent = 'Polyline';
-        document.getElementById('featureType').textContent = 'Polyline';
+        addPopup(map, polylineSource, 'Polyline');
         document.getElementById('featureCoords').textContent = polylineCoords.toString();
-    });
+    });
+
+    const getCoordinates = (source) => {
+        const features = source.getFeatures();
+        const coordinates = features[0].getGeometry().getCoordinates();
+        return coordinates;
+    };
 });
 
 document.addEventListener("DOMContentLoaded", () => {

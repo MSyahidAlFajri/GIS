@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OPEN LAYER</title>
+    <title>OPEN LAYER Daerah Banda Aceh</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.css" />
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Additional CSS -->
     <link rel="stylesheet" href="styles.css" />
@@ -16,31 +17,13 @@
         <h2>NPM : 1214008</h2>
         <h2>Kelas : D4TI 3A</h2>
         <div id="map" style="height: 500px;"></div>
-        <div id='map'></div>
 
+        <div id="popup" class="ol-popup">
+            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+            <div id="popup-content"></div>
+        </div>
+        
 	<input type="hidden" id="idmarker" name="idmarker" value="">
-
-	<div id="popupinfo" class="ol-popup">
-		<b id="popupinfo-title"></b>
-		<div id="popupinfo-content"></div>
-		<div id="popupinfo-delete">
-			<input type="hidden" id="idmarker" name="idmarker" value="">
-			<button id="hapusbutton" type="button">Hapus</button><button id="hitungcogbutton" type="button">Hitung COG</button><br>
-		</div>
-		
-	</div>
-
-	<div id="popup" class="ol-popup">
-		<b id="popup-title">Input Center of Gravity</b><a href="#" id="popup-closer" class="ol-popup-closer"></a>
-		<div id="popup-content"></div>
-		<div id="popup-input">
-			Nama : <input type="text" id="name" name="name" required><br>
-			Volume : <input type="text" id="volume" name="volume" required><br>
-			<input type="hidden" id="long" name="long" value="">
-			<input type="hidden" id="lat" name="lat" value="">
-			<button id="insertmarkerbutton" type="button">Input</button><br>
-		</div>
-	</div>
 
         <div class="point-table">
             <h1>Data-Data (Polyline, Point, Polygon) </h1>
