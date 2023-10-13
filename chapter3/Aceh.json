@@ -1,0 +1,4444 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Penang Swalayan",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31598784095007,
+            5.559934802893011
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mutiara Jaya Furniture",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3164027035246,
+            5.560080646732743
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Terminal APK Keudah",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31687131013626,
+            5.559074959647589
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit Umum Cut Meutia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31750061968427,
+            5.558596488835306
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kuil Palani Andawer",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3171310818347,
+            5.561232193773293
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King GYM",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31661557915072,
+            5.561491537445008
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anita Service",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31731472955335,
+            5.561427402940353
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "OYO",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31713752553406,
+            5.561427402940353
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Baitul Mal Banda Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31684280519215,
+            5.562103416970373
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank Indonesia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31692747873433,
+            5.557713017451746
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Tuha",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31202295086365,
+            5.557607353018142
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Amin Hoss",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31371462568598,
+            5.556969118392473
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bidan Dian",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31127832489602,
+            5.558469723482943
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mesjid Taman Dianjong",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31177949695143,
+            5.559171451758445
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid BANI SALIM",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31070529847352,
+            5.557464063299932
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor PLN Area Banda Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3146536187171,
+            5.5560147826394655
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank BNI",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31468023364266,
+            5.555317215157245
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "POLSEK Kutaraja",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31218826707709,
+            5.562202870802324
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Wisata",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31877994147038,
+            5.55808477317953
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Prapat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31869792242327,
+            5.557856199514902
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Medan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3187307300426,
+            5.557545992256195
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar Malam",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31933767098815,
+            5.5577378309744745
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SYR Coffe",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31952631479572,
+            5.557990894720675
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nasi Uduk",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31972316050684,
+            5.558492940217249
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bakso Canberra",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31949760812938,
+            5.558362326796825
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Food Stalls",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31911621956135,
+            5.5583745718059845
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paknek Kupi",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31883735480301,
+            5.559080700255635
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Siwah Hotel",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.32068711417094,
+            5.558476378610649
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mie Rajali",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.32122548576956,
+            5.5586316273642495
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Aceh Barat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.320932572164,
+            5.558098975271406
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apotek Berkat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.32087925978323,
+            5.557719379681473
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31678153983819,
+            5.554925722443841
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "juice kedai",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31973330885785,
+            5.557436588397522
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Market",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31960506087393,
+            5.5605326647976625
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31961576947367,
+            5.5600426804157905
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel 61",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.32182647917301,
+            5.557036562119293
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zuhra Sembako",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.30754523439828,
+            5.559634206880759
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Idola Mart",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.30734638615377,
+            5.559838661066408
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SD NEGERI 1",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31276401068038,
+            5.552874091168562
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMAN 1 Banda Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31242948728413,
+            5.552218273134372
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "PAUD-TK-MI",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31276064975424,
+            5.553624713250642
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blang Padang",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31393487146289,
+            5.5500401775381505
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pavilliun Seulawah",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31339287263143,
+            5.55173749337564
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taspen",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31648864564585,
+            5.550230534573529
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Yayasan Budi Darma",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31436059295635,
+            5.547848789950123
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Museum Tsunami Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3151130413359,
+            5.547796941379147
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPBU Simpang Jam",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31611988220465,
+            5.547333759442992
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Bustanussalatin",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31702291159013,
+            5.549585838340576
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Banda Fitness",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.3169389408302,
+            5.545948833133238
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wisma Teuku Umar",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            95.31546809271634,
+            5.548829025563819
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Idola Mart",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.30725147041534,
+                5.559926153127023
+              ],
+              [
+                95.30723485582081,
+                5.559868826835981
+              ],
+              [
+                95.30735669617735,
+                5.559836305188725
+              ],
+              [
+                95.30737109549295,
+                5.559893631481728
+              ],
+              [
+                95.30725147041534,
+                5.559926153127023
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Zuhra Sembako",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.30748821485997,
+                5.559672143702329
+              ],
+              [
+                95.30747067769437,
+                5.559599289426615
+              ],
+              [
+                95.30755760104307,
+                5.559581834755406
+              ],
+              [
+                95.30757818815215,
+                5.559644064451163
+              ],
+              [
+                95.30748821485997,
+                5.559672143702329
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mesjid Taman Dianjong",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31169505895997,
+                5.559326246745513
+              ],
+              [
+                95.3116874651746,
+                5.559045338525053
+              ],
+              [
+                95.31183934087198,
+                5.559041559489501
+              ],
+              [
+                95.31184693465735,
+                5.559323727390151
+              ],
+              [
+                95.31169505895997,
+                5.559326246745513
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Bidan Dian",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31121205810877,
+                5.558503125392619
+              ],
+              [
+                95.31119998318604,
+                5.558425408051775
+              ],
+              [
+                95.31138593700484,
+                5.558398166919176
+              ],
+              [
+                95.31139559694412,
+                5.558475083054006
+              ],
+              [
+                95.31121205810877,
+                5.558503125392619
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid BANI SALIM",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31059714673194,
+                5.557609534122946
+              ],
+              [
+                95.31051361509861,
+                5.557405465685889
+              ],
+              [
+                95.31083888221605,
+                5.557282016844113
+              ],
+              [
+                95.31091482006553,
+                5.557488604687165
+              ],
+              [
+                95.31059714673194,
+                5.557609534122946
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 54
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31197949301276,
+                5.557699113001547
+              ],
+              [
+                95.3119347571722,
+                5.557588795968542
+              ],
+              [
+                95.31204225672951,
+                5.557547593215773
+              ],
+              [
+                95.31208365407406,
+                5.557658574816855
+              ],
+              [
+                95.31197949301276,
+                5.557699113001547
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Amin Hoss",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31352950533909,
+                5.5571432091780935
+              ],
+              [
+                95.31348959034415,
+                5.557068981664216
+              ],
+              [
+                95.31371857636907,
+                5.5569424812323405
+              ],
+              [
+                95.31378895280744,
+                5.557063754374809
+              ],
+              [
+                95.31362299045958,
+                5.557153663756651
+              ],
+              [
+                95.31359778098852,
+                5.557110799983661
+              ],
+              [
+                95.31352950533909,
+                5.5571432091780935
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor PLN Are",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31458090400736,
+                5.556203900790294
+              ],
+              [
+                95.31447294825529,
+                5.556010493377656
+              ],
+              [
+                95.31474523665389,
+                5.555857677599619
+              ],
+              [
+                95.3148555914238,
+                5.556054666681064
+              ],
+              [
+                95.31458090400736,
+                5.556203900790294
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 57
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Penang Swalayan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31577473228066,
+                5.560034860716996
+              ],
+              [
+                95.31573901886321,
+                5.559892679126179
+              ],
+              [
+                95.31592808989194,
+                5.559856088270152
+              ],
+              [
+                95.3159596017311,
+                5.559993042605299
+              ],
+              [
+                95.31577473228066,
+                5.560034860716996
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 58
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mutiara Jaya Furniture",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.316424631139,
+                5.560187596049417
+              ],
+              [
+                95.31630321522243,
+                5.560181187620785
+              ],
+              [
+                95.31623606854322,
+                5.560129004701551
+              ],
+              [
+                95.31613458149576,
+                5.559696287707098
+              ],
+              [
+                95.31627657225414,
+                5.559662856505099
+              ],
+              [
+                95.31628115260054,
+                5.559676532906138
+              ],
+              [
+                95.31639566127518,
+                5.55964766050387
+              ],
+              [
+                95.31641550944477,
+                5.5597221209074235
+              ],
+              [
+                95.3162979472059,
+                5.559752512905703
+              ],
+              [
+                95.31636207206452,
+                5.560041236814115
+              ],
+              [
+                95.31643230405177,
+                5.560047315210724
+              ],
+              [
+                95.316424631139,
+                5.560187596049417
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 59
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Baitul Mal Banda Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31677497109786,
+                5.562178857413841
+              ],
+              [
+                95.31677497109786,
+                5.562045173601447
+              ],
+              [
+                95.31691942438329,
+                5.562045173601447
+              ],
+              [
+                95.31692195865111,
+                5.562171290405914
+              ],
+              [
+                95.31677497109786,
+                5.562178857413841
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 60
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King GYM",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31655781987376,
+                5.561554306377161
+              ],
+              [
+                95.31653757187217,
+                5.561424229936691
+              ],
+              [
+                95.31666274132778,
+                5.561400413121532
+              ],
+              [
+                95.31668483005433,
+                5.561530489566181
+              ],
+              [
+                95.31655781987376,
+                5.561554306377161
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 61
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "OYO",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31701952806844,
+                5.561683767633937
+              ],
+              [
+                95.31704161679494,
+                5.561500561412402
+              ],
+              [
+                95.31698823570446,
+                5.561500561412402
+              ],
+              [
+                95.31699375788565,
+                5.561440103347053
+              ],
+              [
+                95.31703609461385,
+                5.561440103347053
+              ],
+              [
+                95.31703977606793,
+                5.561359492582881
+              ],
+              [
+                95.31700848370406,
+                5.561359492582881
+              ],
+              [
+                95.31701400588514,
+                5.561315523070988
+              ],
+              [
+                95.31719991933943,
+                5.561332011638498
+              ],
+              [
+                95.31715574188627,
+                5.561703920314386
+              ],
+              [
+                95.31701952806844,
+                5.561683767633937
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 62
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kuil Palani Andawe",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31702080799204,
+                5.561288313107639
+              ],
+              [
+                95.31703921526451,
+                5.561167396927118
+              ],
+              [
+                95.31714965889967,
+                5.561174725181317
+              ],
+              [
+                95.317162543991,
+                5.56114174803713
+              ],
+              [
+                95.3172232879918,
+                5.561152740418365
+              ],
+              [
+                95.31720303999015,
+                5.561304801675902
+              ],
+              [
+                95.31702080799204,
+                5.561288313107639
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 63
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          " name": "",
+          "name": "Anita Service",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31731442790095,
+                5.561450493027465
+              ],
+              [
+                95.31731442790095,
+                5.561404091822325
+              ],
+              [
+                95.31740613226532,
+                5.561405111630108
+              ],
+              [
+                95.31740459532028,
+                5.561453552447048
+              ],
+              [
+                95.31731442790095,
+                5.561450493027465
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 64
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Terminal APK Keudah",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31663400432035,
+                5.559404494004667
+              ],
+              [
+                95.3164889638046,
+                5.558864719291989
+              ],
+              [
+                95.31704810550315,
+                5.5587036236420175
+              ],
+              [
+                95.31717422769066,
+                5.559272688596877
+              ],
+              [
+                95.31663400432035,
+                5.559404494004667
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit Umum",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.317403349664,
+                5.558728729460881
+              ],
+              [
+                95.31738863540937,
+                5.558494408446421
+              ],
+              [
+                95.31759043090852,
+                5.558473486922978
+              ],
+              [
+                95.3176072472005,
+                5.558709900097128
+              ],
+              [
+                95.317403349664,
+                5.558728729460881
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 66
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank Indonesia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3167918898315,
+                5.55790960918732
+              ],
+              [
+                95.31674805487455,
+                5.557539552857108
+              ],
+              [
+                95.31695405444844,
+                5.557493525429251
+              ],
+              [
+                95.3169792788853,
+                5.557639976322449
+              ],
+              [
+                95.31713903365676,
+                5.557604409681105
+              ],
+              [
+                95.31717476827578,
+                5.557771782095827
+              ],
+              [
+                95.31700450332323,
+                5.557788519335048
+              ],
+              [
+                95.31700870739564,
+                5.557874297677003
+              ],
+              [
+                95.3167918898315,
+                5.55790960918732
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 67
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "POLSEK Kutaraja",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31210698992845,
+                5.562287233898715
+              ],
+              [
+                95.31210474376604,
+                5.562165529524933
+              ],
+              [
+                95.31213118271319,
+                5.562165529524933
+              ],
+              [
+                95.31215101192265,
+                5.562096454057993
+              ],
+              [
+                95.31224354823598,
+                5.56210632198308
+              ],
+              [
+                95.31224354823598,
+                5.562158950910231
+              ],
+              [
+                95.31228320665667,
+                5.562165529524933
+              ],
+              [
+                95.31225346284162,
+                5.562293812513701
+              ],
+              [
+                95.31210698992845,
+                5.562287233898715
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 68
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank BNI",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3146822879329,
+                5.5554792744034955
+              ],
+              [
+                95.31459128669951,
+                5.555203024268266
+              ],
+              [
+                95.31472323848789,
+                5.555144151272785
+              ],
+              [
+                95.31480968965894,
+                5.555415872744788
+              ],
+              [
+                95.3146822879329,
+                5.5554792744034955
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 69
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PAUD-TK-MI",
+          "stroke": "",
+          "stroke-width": 2,
+          "stroke-opacity": 1,
+          "fill": "#555555",
+          "fill-opacity": 0.5,
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3127470029603,
+                5.5537584539132325
+              ],
+              [
+                95.31267875203491,
+                5.553568248361174
+              ],
+              [
+                95.31258320074039,
+                5.553599949290785
+              ],
+              [
+                95.31258775080283,
+                5.55348673167687
+              ],
+              [
+                95.3128471043255,
+                5.553445973333837
+              ],
+              [
+                95.31289260494162,
+                5.553717695588986
+              ],
+              [
+                95.3127470029603,
+                5.5537584539132325
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 70
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SD Negeri 1",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31254040658973,
+                5.553205286081109
+              ],
+              [
+                95.31239632508465,
+                5.552737659927772
+              ],
+              [
+                95.31307914613905,
+                5.552550609344593
+              ],
+              [
+                95.3131480546379,
+                5.552968355544721
+              ],
+              [
+                95.31300397313169,
+                5.553023047879577
+              ],
+              [
+                95.31302276637092,
+                5.553072927996155
+              ],
+              [
+                95.31254040658973,
+                5.553205286081109
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 71
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMAN 1 Bandar Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31209773322553,
+                5.5527658200787045
+              ],
+              [
+                95.3118383797111,
+                5.551986881353287
+              ],
+              [
+                95.312775692412,
+                5.551692514706886
+              ],
+              [
+                95.31303959598756,
+                5.552466925107808
+              ],
+              [
+                95.31209773322553,
+                5.5527658200787045
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 72
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pavilliun Seulawan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31335130324135,
+                5.552060866109812
+              ],
+              [
+                95.31327208868731,
+                5.551702489023441
+              ],
+              [
+                95.31349532970358,
+                5.55166426212206
+              ],
+              [
+                95.31357454425762,
+                5.552017860870919
+              ],
+              [
+                95.31335130324135,
+                5.552060866109812
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 73
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blang Padang",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31297842882964,
+                5.551602330499463
+              ],
+              [
+                95.3122019194243,
+                5.5490896174458015
+              ],
+              [
+                95.31495104200377,
+                5.548458177245649
+              ],
+              [
+                95.31565349895334,
+                5.551089168761536
+              ],
+              [
+                95.31297842882964,
+                5.551602330499463
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 74
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wisma Teuku Umar",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31537491686373,
+                5.548985260475007
+              ],
+              [
+                95.315295600024,
+                5.548702373610382
+              ],
+              [
+                95.3155500749441,
+                5.5486398753026975
+              ],
+              [
+                95.31565913560075,
+                5.548916183433761
+              ],
+              [
+                95.31537491686373,
+                5.548985260475007
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 75
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Yayasan Budi Darma",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31432901778516,
+                5.548411126289025
+              ],
+              [
+                95.31410151470214,
+                5.547482733043651
+              ],
+              [
+                95.3145292204976,
+                5.547419330524946
+              ],
+              [
+                95.31453377055874,
+                5.548388482567702
+              ],
+              [
+                95.31432901778516,
+                5.548411126289025
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 76
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Museum Tsunami Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31478857401208,
+                5.548094114124865
+              ],
+              [
+                95.31480677438253,
+                5.547473675503511
+              ],
+              [
+                95.31545743319856,
+                5.547509905511177
+              ],
+              [
+                95.31573953702105,
+                5.547949194184156
+              ],
+              [
+                95.31568038622044,
+                5.548094114087149
+              ],
+              [
+                95.31478857401208,
+                5.548094114124865
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 77
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPBU Simpang Jam",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.315960484899,
+                5.547429673774971
+              ],
+              [
+                95.31592863452244,
+                5.547289282454841
+              ],
+              [
+                95.3162755558073,
+                5.547207764903092
+              ],
+              [
+                95.31630285617769,
+                5.547330041227525
+              ],
+              [
+                95.315960484899,
+                5.547429673774971
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 78
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Banda Fitness",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31676841277095,
+                5.546038655677805
+              ],
+              [
+                95.31667973921378,
+                5.545914188602126
+              ],
+              [
+                95.31668883393769,
+                5.5458644017637795
+              ],
+              [
+                95.31716403326021,
+                5.545868927838995
+              ],
+              [
+                95.31715266485566,
+                5.546022814415025
+              ],
+              [
+                95.31697304409221,
+                5.546036392646528
+              ],
+              [
+                95.31697683401978,
+                5.546077505645158
+              ],
+              [
+                95.31687224469675,
+                5.546091083868831
+              ],
+              [
+                95.3168745183774,
+                5.54603224489513
+              ],
+              [
+                95.31676841277095,
+                5.546038655677805
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 79
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Bustanussalatin",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31713516462281,
+                5.551152983582284
+              ],
+              [
+                95.31655243361655,
+                5.54871159103574
+              ],
+              [
+                95.31712161281445,
+                5.5485767071150605
+              ],
+              [
+                95.31771111976371,
+                5.551024844386106
+              ],
+              [
+                95.31713516462281,
+                5.551152983582284
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 80
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taspen",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31643385471114,
+                5.550363915766965
+              ],
+              [
+                95.31642030282705,
+                5.550313334464036
+              ],
+              [
+                95.3163762592041,
+                5.55032007863808
+              ],
+              [
+                95.3163559313794,
+                5.550060427887033
+              ],
+              [
+                95.31650536253585,
+                5.550060427887033
+              ],
+              [
+                95.31651213848784,
+                5.55013461382805
+              ],
+              [
+                95.31657312196552,
+                5.5501312417404876
+              ],
+              [
+                95.3165900618202,
+                5.550289729855535
+              ],
+              [
+                95.31655618211079,
+                5.550296474029835
+              ],
+              [
+                95.31657312196552,
+                5.5503706599411515
+              ],
+              [
+                95.31643385471114,
+                5.550363915766965
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 81
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel 61",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.32176727433153,
+                5.55711331858717
+              ],
+              [
+                95.3218430832435,
+                5.556947828419325
+              ],
+              [
+                95.3217885253764,
+                5.556896112732332
+              ],
+              [
+                95.32198077690578,
+                5.556909041654322
+              ],
+              [
+                95.32195999295772,
+                5.557121075936664
+              ],
+              [
+                95.32176727433153,
+                5.55711331858717
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 82
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apotek Berkat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3208289156413,
+                5.557855128191434
+              ],
+              [
+                95.32081958115191,
+                5.557608927054886
+              ],
+              [
+                95.32092926140047,
+                5.557606604402437
+              ],
+              [
+                95.32094326313529,
+                5.5578597734943
+              ],
+              [
+                95.3208289156413,
+                5.557855128191434
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 83
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Aceh Barat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.32089659009404,
+                5.558194235305649
+              ],
+              [
+                95.32088549903091,
+                5.558007224162935
+              ],
+              [
+                95.32108152330511,
+                5.558004901512078
+              ],
+              [
+                95.32109728160407,
+                5.558196557952911
+              ],
+              [
+                95.32089659009404,
+                5.558194235305649
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 84
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Siwan Hotel",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.32060546435304,
+                5.558522852491322
+              ],
+              [
+                95.32057746088475,
+                5.558295232834723
+              ],
+              [
+                95.32080382224927,
+                5.558309168734226
+              ],
+              [
+                95.32080382224927,
+                5.558529820439077
+              ],
+              [
+                95.32060546435304,
+                5.558522852491322
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mie Razali",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.32111419401747,
+                5.558722600281541
+              ],
+              [
+                95.32112352863129,
+                5.558443882465355
+              ],
+              [
+                95.32129669291066,
+                5.5584554957190875
+              ],
+              [
+                95.3212640221983,
+                5.558736536226306
+              ],
+              [
+                95.32111419401747,
+                5.558722600281541
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 86
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Market",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31954990615486,
+                5.560741649243823
+              ],
+              [
+                95.3195522397782,
+                5.560493126672185
+              ],
+              [
+                95.31972959507357,
+                5.56054422477969
+              ],
+              [
+                95.31972959507357,
+                5.560760230365403
+              ],
+              [
+                95.31954990615486,
+                5.560741649243823
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3195872441126,
+                5.560207441719186
+              ],
+              [
+                95.31958491049056,
+                5.559940337775103
+              ],
+              [
+                95.31975993216389,
+                5.559977500069579
+              ],
+              [
+                95.3197645994079,
+                5.560193505863339
+              ],
+              [
+                95.3195872441126,
+                5.560207441719186
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 88
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paknek Kupi",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31873899627209,
+                5.559112582642044
+              ],
+              [
+                95.3187353028789,
+                5.559056216957742
+              ],
+              [
+                95.31892982160537,
+                5.559056216957742
+              ],
+              [
+                95.31892489708122,
+                5.559118709347189
+              ],
+              [
+                95.31873899627209,
+                5.559112582642044
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 89
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nasi Uduk",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31968113625464,
+                5.558575797277811
+              ],
+              [
+                95.319672962158,
+                5.558439524967625
+              ],
+              [
+                95.31979353008205,
+                5.558429355389848
+              ],
+              [
+                95.31979148655819,
+                5.558573763363185
+              ],
+              [
+                95.31968113625464,
+                5.558575797277811
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bakso Canberra",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31939331060937,
+                5.55843534511024
+              ],
+              [
+                95.31939055844413,
+                5.55831139517845
+              ],
+              [
+                95.31954811992466,
+                5.558308655953496
+              ],
+              [
+                95.31955156013197,
+                5.558444932396256
+              ],
+              [
+                95.31939331060937,
+                5.55843534511024
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 91
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Food Stalls",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31908966858407,
+                5.558412037834643
+              ],
+              [
+                95.31909242074931,
+                5.558312056120712
+              ],
+              [
+                95.31914746406227,
+                5.558305208057504
+              ],
+              [
+                95.31915365643488,
+                5.558409983416283
+              ],
+              [
+                95.31908966858407,
+                5.558412037834643
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 92
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SYR Coffe",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3194659215452,
+                5.558012536682284
+              ],
+              [
+                95.319473490002,
+                5.557965285020444
+              ],
+              [
+                95.31956637560626,
+                5.55796802425651
+              ],
+              [
+                95.3195615593163,
+                5.558015275918095
+              ],
+              [
+                95.3194659215452,
+                5.558012536682284
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 93
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar Malam",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31918574653781,
+                5.557869187882872
+              ],
+              [
+                95.31918705072746,
+                5.557581018785015
+              ],
+              [
+                95.31947918924845,
+                5.557579720725116
+              ],
+              [
+                95.31948179762776,
+                5.55787308205845
+              ],
+              [
+                95.31918574653781,
+                5.557869187882872
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 94
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Wisata",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31853490482058,
+                5.558151990648
+              ],
+              [
+                95.3185331092443,
+                5.558023316951079
+              ],
+              [
+                95.31900893703363,
+                5.558017955546035
+              ],
+              [
+                95.31899995914989,
+                5.558173436261882
+              ],
+              [
+                95.31853490482058,
+                5.558151990648
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 95
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Prapat",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3185331092443,
+                5.557964341497154
+              ],
+              [
+                95.31854388270438,
+                5.557715929670238
+              ],
+              [
+                95.31879526342254,
+                5.557732013892391
+              ],
+              [
+                95.3189299316644,
+                5.557882133278511
+              ],
+              [
+                95.31892274936217,
+                5.557983999984131
+              ],
+              [
+                95.3185331092443,
+                5.557964341497154
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 96
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Medan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3185654296255,
+                5.557710568265463
+              ],
+              [
+                95.31858518096726,
+                5.557299526880428
+              ],
+              [
+                95.31879167227288,
+                5.557310249702496
+              ],
+              [
+                95.31879346784928,
+                5.557555087427389
+              ],
+              [
+                95.31894429629233,
+                5.5575550874194874
+              ],
+              [
+                95.31892993167946,
+                5.557728439615417
+              ],
+              [
+                95.3185654296255,
+                5.557710568265463
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 97
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "juice kedai",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.31976865213443,
+                5.557607412209094
+              ],
+              [
+                95.31966235158706,
+                5.557462243563862
+              ],
+              [
+                95.3197612358166,
+                5.557400731415953
+              ],
+              [
+                95.31986012004757,
+                5.557545900074956
+              ],
+              [
+                95.31976865213443,
+                5.557607412209094
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 98
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasar Aceh",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                95.3158839359046,
+                5.5556258661712405
+              ],
+              [
+                95.31573211058264,
+                5.555352230593883
+              ],
+              [
+                95.31761146186545,
+                5.554274023498806
+              ],
+              [
+                95.31775508041312,
+                5.554568080174576
+              ],
+              [
+                95.3158839359046,
+                5.5556258661712405
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 99
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tepi Sungai",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31787037949454,
+              5.554808196096474
+            ],
+            [
+              95.31795027167402,
+              5.55455015461402
+            ],
+            [
+              95.31925961572307,
+              5.553701972189614
+            ],
+            [
+              95.31989431470271,
+              5.553582696437886
+            ],
+            [
+              95.32019169114761,
+              5.553781489342811
+            ],
+            [
+              95.32017393732974,
+              5.553887512199125
+            ],
+            [
+              95.3197123380719,
+              5.554254174427527
+            ],
+            [
+              95.31927293108589,
+              5.5544750551769795
+            ],
+            [
+              95.31835860947928,
+              5.555133279322419
+            ],
+            [
+              95.31779492577016,
+              5.555826843565214
+            ],
+            [
+              95.31772391049964,
+              5.555879854811067
+            ],
+            [
+              95.31755968768681,
+              5.555862184395892
+            ],
+            [
+              95.31787481794964,
+              5.554793123312976
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 100
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Diponegoro",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31520486376257,
+              5.556005595422661
+            ],
+            [
+              95.31622424440792,
+              5.555531109592749
+            ],
+            [
+              95.31770513569319,
+              5.554678043682813
+            ],
+            [
+              95.31796378451492,
+              5.55454680266358
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 101
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Cut Meutia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31771829255695,
+              5.554669996290926
+            ],
+            [
+              95.31780450882991,
+              5.554781046362507
+            ],
+            [
+              95.31778422264756,
+              5.5549829555295105
+            ],
+            [
+              95.31757121773683,
+              5.555735066569909
+            ],
+            [
+              95.31747992991757,
+              5.556118693307013
+            ],
+            [
+              95.31744293990903,
+              5.556665654005073
+            ],
+            [
+              95.31753422772829,
+              5.557660052804394
+            ],
+            [
+              95.31767731267854,
+              5.558448306137947
+            ],
+            [
+              95.31776121848668,
+              5.5590771151210845
+            ],
+            [
+              95.31768386204095,
+              5.55949874125173
+            ],
+            [
+              95.31755861827406,
+              5.559876371356111
+            ],
+            [
+              95.31744442542646,
+              5.560334659991582
+            ],
+            [
+              95.31741954642712,
+              5.560381284111912
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 102
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan W.R Supratman",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31608376745334,
+              5.560004142152508
+            ],
+            [
+              95.31617284836278,
+              5.56020678866318
+            ],
+            [
+              95.31731034297604,
+              5.560338644617346
+            ],
+            [
+              95.31742226513592,
+              5.560379565424739
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 103
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan K.H Ahmad Dahlan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31608529575846,
+              5.56000429309303
+            ],
+            [
+              95.3161286941471,
+              5.559901991005447
+            ],
+            [
+              95.31588869123982,
+              5.558799335629288
+            ],
+            [
+              95.31560870904832,
+              5.557673234997878
+            ],
+            [
+              95.31540368608773,
+              5.556812352352068
+            ],
+            [
+              95.31525969960563,
+              5.556256084136251
+            ],
+            [
+              95.31525212137632,
+              5.5561165455998776
+            ],
+            [
+              95.31531274720277,
+              5.5559581504645195
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 104
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan K.H Ahmad Dahlan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31520439219105,
+              5.556001383789905
+            ],
+            [
+              95.3151018683825,
+              5.556083017509337
+            ],
+            [
+              95.31523719980925,
+              5.556487104252199
+            ],
+            [
+              95.31549145885424,
+              5.557511605761675
+            ],
+            [
+              95.31565934198085,
+              5.558353165128182
+            ],
+            [
+              95.31582312452036,
+              5.55904425485366
+            ],
+            [
+              95.31590269025025,
+              5.559384620692512
+            ],
+            [
+              95.31600117385932,
+              5.559852046392294
+            ],
+            [
+              95.31603161714833,
+              5.559960055783904
+            ],
+            [
+              95.31608273983471,
+              5.5600043421188445
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Diponegoro",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31990373349743,
+              5.5535836770538225
+            ],
+            [
+              95.32000255905655,
+              5.553500069619588
+            ],
+            [
+              95.3201186790863,
+              5.553423839299242
+            ],
+            [
+              95.32017550378197,
+              5.553256624370292
+            ],
+            [
+              95.32021503400426,
+              5.553217279673262
+            ],
+            [
+              95.32038303745236,
+              5.553581218013662
+            ],
+            [
+              95.32100069718643,
+              5.554547620760687
+            ],
+            [
+              95.32144526292194,
+              5.555238970074441
+            ],
+            [
+              95.32174421023302,
+              5.555772580463156
+            ],
+            [
+              95.32177138726081,
+              5.555831597250403
+            ],
+            [
+              95.32168985611355,
+              5.555883042716076
+            ],
+            [
+              95.32164291397385,
+              5.555833862065015
+            ],
+            [
+              95.32086713334763,
+              5.554513360034946
+            ],
+            [
+              95.32037328107191,
+              5.553775074610982
+            ],
+            [
+              95.32027445551626,
+              5.553696385287708
+            ],
+            [
+              95.32010887096135,
+              5.553593054036412
+            ],
+            [
+              95.31990627856817,
+              5.5535782997830125
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 106
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan H.DirmurthataKota Alam",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32145005101802,
+              5.55523998581242
+            ],
+            [
+              95.32213688864368,
+              5.554812113540393
+            ],
+            [
+              95.32230242145175,
+              5.554708833979788
+            ],
+            [
+              95.3223691287032,
+              5.554839162945598
+            ],
+            [
+              95.32236171678596,
+              5.554858835240296
+            ],
+            [
+              95.32225794995071,
+              5.554917852119061
+            ],
+            [
+              95.32223571420019,
+              5.554920311155257
+            ],
+            [
+              95.32213688864368,
+              5.554814572576987
+            ],
+            [
+              95.32265572281977,
+              5.554482602497586
+            ],
+            [
+              95.32345620983517,
+              5.553990794627353
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Angkasa",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32345706581611,
+              5.55398789586873
+            ],
+            [
+              95.32382038790576,
+              5.554742590205535
+            ],
+            [
+              95.32345822146777,
+              5.554957153122146
+            ],
+            [
+              95.32248956996165,
+              5.555560789709929
+            ],
+            [
+              95.32232266390844,
+              5.555618246521206
+            ],
+            [
+              95.32186851869233,
+              5.555898608299998
+            ],
+            [
+              95.32176791690478,
+              5.555832809118854
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tanggul",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32345186517102,
+              5.553994254266357
+            ],
+            [
+              95.32313305086166,
+              5.553376864237535
+            ],
+            [
+              95.32312612011464,
+              5.553290636528146
+            ],
+            [
+              95.3236424606821,
+              5.5528939889030795
+            ],
+            [
+              95.32429741616528,
+              5.552759473560897
+            ],
+            [
+              95.32459543823563,
+              5.552873294236704
+            ],
+            [
+              95.32516722701376,
+              5.553014711547178
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 109
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tanggul Atas",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32516310981362,
+              5.5530172608823705
+            ],
+            [
+              95.32545652880083,
+              5.553121731179942
+            ],
+            [
+              95.32564021385798,
+              5.553228575784303
+            ],
+            [
+              95.325807200273,
+              5.553271313620584
+            ],
+            [
+              95.32590739212202,
+              5.553297431185115
+            ],
+            [
+              95.3259479459661,
+              5.552746587750377
+            ],
+            [
+              95.32591216316183,
+              5.5532926825376165
+            ],
+            [
+              95.32610539030003,
+              5.553340169016465
+            ],
+            [
+              95.32664451529644,
+              5.553437516439644
+            ],
+            [
+              95.32676061152455,
+              5.553451762648294
+            ],
+            [
+              95.32677492464546,
+              5.552879550426553
+            ],
+            [
+              95.32676061152455,
+              5.553454136971382
+            ],
+            [
+              95.32755737527668,
+              5.553560981515545
+            ],
+            [
+              95.328346980101,
+              5.553677323693648
+            ],
+            [
+              95.32860461628394,
+              5.553712938529912
+            ],
+            [
+              95.32875490405814,
+              5.553686820983813
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tanggul Bawan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32453135554454,
+              5.552848699234758
+            ],
+            [
+              95.32463149682172,
+              5.552761109253993
+            ],
+            [
+              95.32531883012308,
+              5.552703722708273
+            ],
+            [
+              95.3259428473936,
+              5.552701836296265
+            ],
+            [
+              95.32594739926918,
+              5.552747141464266
+            ],
+            [
+              95.32594133009997,
+              5.552697305778878
+            ],
+            [
+              95.32625389226479,
+              5.552729019396949
+            ],
+            [
+              95.32663817358838,
+              5.552808023466568
+            ],
+            [
+              95.32677321258035,
+              5.552845777766748
+            ],
+            [
+              95.32677321258035,
+              5.552880511721014
+            ],
+            [
+              95.32677169528841,
+              5.552847287939358
+            ],
+            [
+              95.32702204847794,
+              5.552946959280476
+            ],
+            [
+              95.32747207816925,
+              5.553112418961831
+            ],
+            [
+              95.32790861368,
+              5.553289604816513
+            ],
+            [
+              95.32838826914343,
+              5.553492159554807
+            ],
+            [
+              95.32875545382069,
+              5.553686971493221
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Mayjen T, Hamzah Bendahara",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32381395916923,
+              5.5547535125297145
+            ],
+            [
+              95.32400798279838,
+              5.555049092847767
+            ],
+            [
+              95.32347738757016,
+              5.554946625021486
+            ],
+            [
+              95.32400402313289,
+              5.555049092847767
+            ],
+            [
+              95.32575815511888,
+              5.555344673016421
+            ],
+            [
+              95.32767866152165,
+              5.555643446120115
+            ],
+            [
+              95.3285141510234,
+              5.555761678086327
+            ],
+            [
+              95.32914770021779,
+              5.555868085972719
+            ],
+            [
+              95.32940111883454,
+              5.5557735004180415
+            ],
+            [
+              95.32954762647222,
+              5.554713352962267
+            ],
+            [
+              95.32961494041723,
+              5.554335009197956
+            ],
+            [
+              95.3296268194145,
+              5.55414583758278
+            ],
+            [
+              95.3296268194145,
+              5.5539487837517925
+            ],
+            [
+              95.3295238681007,
+              5.553897549745756
+            ],
+            [
+              95.3290962241864,
+              5.553842374656639
+            ],
+            [
+              95.32874381392116,
+              5.5536807904369425
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Mayjen Hamzah",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32676385560768,
+              5.55550542129987
+            ],
+            [
+              95.32679553293536,
+              5.55550542129987
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Rama Setia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31509892152383,
+              5.556087986682826
+            ],
+            [
+              95.31292394578861,
+              5.5573256325864975
+            ],
+            [
+              95.31229715343301,
+              5.557663243709129
+            ],
+            [
+              95.31040252800074,
+              5.558504840955379
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan K.H Ahmad Dahlan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.3148487037069,
+              5.555272814291385
+            ],
+            [
+              95.31506278867249,
+              5.55590073836035
+            ],
+            [
+              95.31512720361252,
+              5.556059133511084
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Mohammad Jam",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31484290632136,
+              5.555275143494569
+            ],
+            [
+              95.3142516974059,
+              5.553581833604767
+            ],
+            [
+              95.31533033920414,
+              5.5532344071292385
+            ],
+            [
+              95.317420752705,
+              5.552680403840938
+            ],
+            [
+              95.31748364726985,
+              5.552658494035768
+            ],
+            [
+              95.31761887058497,
+              5.552699183673695
+            ],
+            [
+              95.31748364726985,
+              5.552649104119283
+            ],
+            [
+              95.3176000022159,
+              5.552589634643184
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Mohammad Jam",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31760320205854,
+              5.552585531419325
+            ],
+            [
+              95.31865668603024,
+              5.55230070384178
+            ],
+            [
+              95.3192132824044,
+              5.552131686195494
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 117
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Cemara",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31690039439684,
+              5.552816377873597
+            ],
+            [
+              95.31656705320006,
+              5.551717756891307
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 118
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Bonjol",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31656705320006,
+              5.551724016845824
+            ],
+            [
+              95.31499783379286,
+              5.5520839641132085
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 119
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Teungku syiah muda",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31584376569731,
+              5.551883645660936
+            ],
+            [
+              95.31587521297973,
+              5.551883645660936
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Sri Ratu Sahatuddin",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.3216699157698,
+              5.5558924245182055
+            ],
+            [
+              95.32162588957408,
+              5.556052052204038
+            ],
+            [
+              95.3207610893005,
+              5.556634223397367
+            ],
+            [
+              95.31950005313075,
+              5.557501219176274
+            ],
+            [
+              95.31934910617258,
+              5.5575481683723496
+            ],
+            [
+              95.3190943831836,
+              5.557535648587006
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 121
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Ahmad Yani",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31910187055252,
+              5.557539753034561
+            ],
+            [
+              95.31912073892346,
+              5.556531909465477
+            ],
+            [
+              95.31914904147789,
+              5.556356632147114
+            ],
+            [
+              95.3192213702282,
+              5.556096846025355
+            ],
+            [
+              95.3194855274026,
+              5.5558182800562435
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 122
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Ahmad",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31911251125132,
+              5.556839540866477
+            ],
+            [
+              95.31911969355656,
+              5.556932472060666
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Ahmad Yani",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32094306799507,
+              5.554625405943071
+            ],
+            [
+              95.31986931321103,
+              5.555436769302744
+            ],
+            [
+              95.31951019789807,
+              5.555751306339445
+            ],
+            [
+              95.31947069521448,
+              5.555790623457497
+            ],
+            [
+              95.31948146867455,
+              5.555826366289239
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Al Huda",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32184236039024,
+              5.55892823045302
+            ],
+            [
+              95.3224963382977,
+              5.558992605403461
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Letnan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32528851297741,
+              5.5606072741330195
+            ],
+            [
+              95.32581313261517,
+              5.560871925906284
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Teladan",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32545380409658,
+              5.56010658126398
+            ],
+            [
+              95.3260215431576,
+              5.560314011218665
+            ],
+            [
+              95.32583469232782,
+              5.56026394192601
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Tongkol",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32537475182176,
+              5.559484290960171
+            ],
+            [
+              95.32599279687548,
+              5.559663110080493
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 128
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "jalan Perdamaian",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32390922005197,
+              5.561012342203654
+            ],
+            [
+              95.32451241385667,
+              5.561150128561735
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 129
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Mangga",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32507268791778,
+              5.558645094223792
+            ],
+            [
+              95.32554238806375,
+              5.5588714584060455
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 130
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Durian",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32583679665487,
+              5.558607309740665
+            ],
+            [
+              95.3262323335772,
+              5.558764780505385
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 131
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Pendaya",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32555497659757,
+              5.558184106852536
+            ],
+            [
+              95.32603456511532,
+              5.558351419657754
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 132
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Sentosa",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32347356622756,
+              5.5579388593666295
+            ],
+            [
+              95.3239037126732,
+              5.55815046092637
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 133
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Kasuari",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32679367570381,
+              5.5596344767375285
+            ],
+            [
+              95.3272682288877,
+              5.559808785593063
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 134
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Merpati",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32683887124449,
+              5.558959732294426
+            ],
+            [
+              95.3273360221994,
+              5.559134041349779
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 135
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalam Merpati",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32727952777327,
+              5.559122795605575
+            ],
+            [
+              95.32723433223265,
+              5.559083435500199
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Darma",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32418378362604,
+              5.560361220461061
+            ],
+            [
+              95.32429677247842,
+              5.559714591183308
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 137
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Setia",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32629802955591,
+              5.561531827659451
+            ],
+            [
+              95.3267386860847,
+              5.561638661780577
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 138
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Pelangi",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32412796923342,
+              5.56290355511554
+            ],
+            [
+              95.32484354652951,
+              5.563120313786158
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 139
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Suri",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32595665627213,
+              5.562586153232743
+            ],
+            [
+              95.32654000732725,
+              5.562756463715544
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 140
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Pati",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32713529581395,
+              5.56334254001024
+            ],
+            [
+              95.32762531070057,
+              5.563505108899406
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 141
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Laksnamana",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31920750440258,
+              5.564950179228319
+            ],
+            [
+              95.32056749393371,
+              5.5651313670448985
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 142
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Kuta Karang",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32096863719892,
+              5.563728822982085
+            ],
+            [
+              95.32224295809954,
+              5.563867378663261
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 143
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Malem Muda",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.3210864315684,
+              5.564155148051682
+            ],
+            [
+              95.32235004388838,
+              5.564315019873192
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 144
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalam Malem Tua",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32201807793962,
+              5.564261729270569
+            ],
+            [
+              95.32191099215078,
+              5.564251071150082
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Al Ikhlas",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.31453825435551,
+              5.562872323839002
+            ],
+            [
+              95.31459179724988,
+              5.563927479359663
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 146
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Gang Taqwa",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32162820099637,
+              5.550106747032871
+            ],
+            [
+              95.32246347015791,
+              5.550074771900697
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 147
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Rawa Sakti",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.3215608278868,
+              5.549649475717814
+            ],
+            [
+              95.3217000394132,
+              5.54847705215758
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 148
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Rawa Sakti",
+          
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.321603662202,
+              5.549137872996255
+            ],
+            [
+              95.321603662202,
+              5.54929774889446
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          
+          "name": "Jalan Hasyim Banta Muda",
+          "daerah ": "Banda Aceh"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              95.32344673384966,
+              5.5661511460018005
+            ],
+            [
+              95.32357118207517,
+              5.564765444548328
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 150
+      }
+    ]
+  }
