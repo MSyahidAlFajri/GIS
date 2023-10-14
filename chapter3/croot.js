@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
 
-    fetch("") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://asia-southeast2-rock-prism-401900.cloudfunctions.net/chapter3gis") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 
-    fetch("") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://asia-southeast2-rock-prism-401900.cloudfunctions.net/chapter3gis") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
