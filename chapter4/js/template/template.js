@@ -1,4 +1,5 @@
 export let URLGeoJson = "https://asia-southeast2-rock-prism-401900.cloudfunctions.net/chapter3gis";
+export let urlPostGCF = "https://asia-southeast2-rock-prism-401900.cloudfunctions.net/chapter4post";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
