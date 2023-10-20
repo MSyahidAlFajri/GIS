@@ -23,3 +23,4 @@ get(URLGeoJson,data => {
     // console.log(geojson)
     AddLayerToMAP(link)
 }); 
+
