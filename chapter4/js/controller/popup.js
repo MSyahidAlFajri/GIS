@@ -21,8 +21,8 @@ export function onDeleteMarkerClick() {
 export function onSubmitMarkerClick() {
     let long = getValue('long');
     let lat = getValue('lat');
-    let name = getValue('name');
-    let volume = getValue('volume');
+    let name = getValue('username');
+    let volume = getValue('password');
     let data = {long,lat,volume};
     postWithToken(urlPostGCF,"Token","40e27523381e236813ece16a5e420192592d2ed80cd74eafe115afbaebe874d2",data,afterSubmitCOG);
     overlay.setPosition(undefined);
