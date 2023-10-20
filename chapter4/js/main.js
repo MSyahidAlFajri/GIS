@@ -4,7 +4,7 @@ import { MakeGeojsonFromAPI, responseData, AddLayerToMAP } from "./controller/co
 import {map} from './config/configpeta.js';
 import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover} from './controller/popup.js';
 import {onClick} from 'https://jscroot.github.io/element/croot.js';
-import Draw from 'https://cdn.skypack.dev/ol/interaction/Draw.js';
+// import Draw from 'https://cdn.skypack.dev/ol/interaction/Draw.js';
 import {getAllCoordinates} from './controller/cog.js';
 
 
@@ -25,55 +25,55 @@ get(URLGeoJson,data => {
     AddLayerToMAP(link)
     drawer(link)
 }); 
-    export function drawer(geojson) {
-        const source = new ol.source.Vector({
-            wrapx: false
-          });
-          const Stroke = new ol.layer.Vector({
-            source: source,
-            style: function (feature) {
-                const featureType = feature.getGeometry().getType();
-                if (featureType === 'Polygon') {
-                    return new ol.style.Style({
-                        stroke: new ol.style.Stroke({
-                            color: 'blue', 
-                            width: 2
-                        })
-                    });
-                } else {
+    // export function drawer(geojson) {
+    //     const source = new ol.source.Vector({
+    //         wrapx: false
+    //       });
+    //       const Stroke = new ol.layer.Vector({
+    //         source: source,
+    //         style: function (feature) {
+    //             const featureType = feature.getGeometry().getType();
+    //             if (featureType === 'Polygon') {
+    //                 return new ol.style.Style({
+    //                     stroke: new ol.style.Stroke({
+    //                         color: 'blue', 
+    //                         width: 2
+    //                     })
+    //                 });
+    //             } else {
                     
-                    return new ol.style.Style({
-                        stroke: new ol.style.Stroke({
-                            color: 'red', 
-                            width: 3
-                        })
-                    });
-                }
-            }
-        });
+    //                 return new ol.style.Style({
+    //                     stroke: new ol.style.Stroke({
+    //                         color: 'red', 
+    //                         width: 3
+    //                     })
+    //                 });
+    //             }
+    //         }
+    //     });
     
-        const typeSelect = document.getElementById('type');
+    //     const typeSelect = document.getElementById('type');
     
-        let draw; // global so we can remove it later
-        typeSelect.onchange = function () {
-        map.removeInteraction(draw);
-        addInteraction();
-        };
+    //     let draw; // global so we can remove it later
+    //     typeSelect.onchange = function () {
+    //     map.removeInteraction(draw);
+    //     addInteraction();
+    //     };
     
-        document.getElementById('undo').addEventListener('click', function () {
-        draw.removeLastPoint();
-        });
-        function addInteraction() {
-            const value = typeSelect.value;
-            if (value !== 'None') {
-                draw = new Draw({
-                source: source,
-                type: typeSelect.value,
-                });
-                map.addInteraction(draw);
-            }
-            }
-        addInteraction();
-        map.addLayer(Stroke);
-    }
+    //     document.getElementById('undo').addEventListener('click', function () {
+    //     draw.removeLastPoint();
+    //     });
+    //     function addInteraction() {
+    //         const value = typeSelect.value;
+    //         if (value !== 'None') {
+    //             draw = new Draw({
+    //             source: source,
+    //             type: typeSelect.value,
+    //             });
+    //             map.addInteraction(draw);
+    //         }
+    //         }
+    //     addInteraction();
+    //     map.addLayer(Stroke);
+    // }
     
