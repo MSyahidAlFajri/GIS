@@ -23,7 +23,7 @@ get(URLGeoJson,data => {
     // console.log(link)
     // console.log(geojson)
     AddLayerToMAP(link)
-    drawer(link)
+    // drawer(link)
 }); 
     // export function drawer(geojson) {
     //     const source = new ol.source.Vector({
