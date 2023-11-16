@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://asia-southeast2-rock-prism-401900.cloudfunctions.net/chapter3gis";
+export let URLGeoJson = "https://asia-southeast2-msyahid.cloudfunctions.net/GetDataGeo";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
